@@ -37,8 +37,6 @@
 
 .blog-post-details-enter {
     flex-direction: row-reverse;
-    /* padding-right: 50px;
-    padding-left: 50px; */
 }
 
 .blog-post-details>a:hover {
